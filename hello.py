@@ -1,1 +1,1 @@
-"print("Hello Git!")"
+"print(10+5)" 
